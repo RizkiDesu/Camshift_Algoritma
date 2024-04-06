@@ -1,6 +1,6 @@
 # Camshift_Algoritma
 
-## human tracking with camshift algoritm using python 9.x.x
+## human tracking with camshift algoritm using python 3.9.x.x
 
 ### 1. Clone Repo 
 ```bash
